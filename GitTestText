@@ -1,2 +1,3 @@
 This contains text for me to test the repository powers.
 I'm going to tes the power of stashing by adding this new line of text.
+This line will cause conlflict with the other branch if I merge it without stashing.
